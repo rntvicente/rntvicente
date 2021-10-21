@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Olá 👋 Sou o Renato 
+  Hey 👋 I`m Renato!
 </h1>
 
 <p align='center'>
@@ -15,12 +15,11 @@
   
 <h2>Sobre mim &#128513;</h2>
   <p>
-      Sou amante de tecnologia 😍 apaixonado por desenvolvimento, trabalho em meus projetos com ReactJS um framework que gosto muito. Uso atualmente o framework NextJS e tento ter um mínimo de XP com outros frameworks. Tenho bastante conhecimento de backend com C# e NodeJS (woohh fullstack JS 😎). Gosto de aprender novas tecnologias e me atualizar.
-
+I'm a technology lover passionate about development, I work on my projects with ReactJS a framework that I really like. I currently use the NextJS framework and try to have a minimum of XP with other frameworks. I have a lot of backend knowledge with C # and NodeJS (woohh fullstack JS. I like to learn new technologies and update myself.
   </p>
 
-- 🔭 Atualmente estou trabalhando na [Minu](https://minu.co)
-- 🌱 Atualmente estou aprendendo NestJS & Go
+- 🔭 I'm currently working at [Minu](https://minu.co)
+- 🌱 I'm currently learning NestJS & Go NestJS & Go
 
 <br>
 <br>
