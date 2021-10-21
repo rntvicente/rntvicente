@@ -13,7 +13,7 @@
 </p>
 <br>
   
-<h2>Sobre mim &#128513;</h2>
+<h2>About me &#128513;</h2>
   <p>
 I'm a technology lover passionate about development :heart_eyes:, I work on my projects with ReactJS a framework that I really like. I currently use the NextJS framework and try to have a minimum of XP with other frameworks. I have a lot of backend knowledge with C# and NodeJS (woohh fullstack JS). I like to learn new technologies and update myself.
   </p>
@@ -32,17 +32,17 @@ I'm a technology lover passionate about development :heart_eyes:, I work on my p
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rntvicente&theme=tokyonight" width="50%"></a> 
 </p>
 
-- **Front End**<br>
+- **Front End Tools**<br>
   [![React Badge](https://img.shields.io/badge/React-20232A?style=&logo=react&logoColor=61DAFB&link=https://reactjs.org/)](https://reactjs.org/)
   [![Styled-Components Badge](https://img.shields.io/badge/styled--components-DB7093?style=&logo=styled-components&logoColor=white&link=https://styled-components.com/)](https://styled-components.com/)
   [![Material Badge](https://img.shields.io/badge/Material--UI-0081CB?style=&logo=material-ui&logoColor=white&link=https://material-ui.com/)](https://material-ui.com/)
 
-- **Back End**<br>
+- **Back End Tolls**<br>
   [![MySQL Badge](https://img.shields.io/badge/MongoDB-13aa52?style=&logo=mongodb&logoColor=green&link=https://www.mongodb.com/pt-br)](https://www.mongodb.com/pt-br)
   [![Express Badge](https://img.shields.io/badge/Express.js-000000?style=&logo=express&logoColor=white&link=https://expressjs.com/)](https://expressjs.com/)
   [![GraphQL Badge](https://img.shields.io/badge/GraphQL-e10098?style=&logo=graphql&logoColor=202020&link=https://graphql.org/)](https://graphql.org/)
 
-- **Outras Ferramentas**<br>
+- **Others Tools**<br>
   [![Jest Badge](https://img.shields.io/badge/Jest-green?style=&logo=jest&logoColor=FFF&link=https://jestjs.io/)](https://jestjs.io)
   [![Mocha Badge](https://img.shields.io/badge/Mocha-c29d7f?style=&logo=mocha&logoColor=FFF&link=https://mochajs.org/)](https://mochajs.org)
   [![Docker Badge](https://img.shields.io/badge/Docker-blue?style=&logo=docker&logoColor=FFF&link=https://hub.docker.com/)](https://hub.docker.com/)
