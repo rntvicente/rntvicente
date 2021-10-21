@@ -50,5 +50,5 @@
   [![Docker Badge](https://img.shields.io/badge/Docker-blue?style=&logo=docker&logoColor=FFF&link=https://hub.docker.com/)](https://hub.docker.com/)  
   [![CircleCI Badge](https://img.shields.io/badge/CircleCI-white?style=&logo=circleci&logoColor=000&link=https://circleci.com/)](https://circleci.com/)
   [![ESLint Badge](https://img.shields.io/badge/ESLint-purple?style=&logo=eslint&logoColor=FFF&link=https://eslint.org/)](https://eslint.org/)
-  [![SonarQube Badge](https://img.shields.io/badge/SonarQube-blue?style=&logo=sonarqube&logoColor=FFF&link=https://www.sonarqube.org/)](https://eslint.org/)
-  [![kibana Badge](https://img.shields.io/badge/Kibana-FFF?style=&logo=kibana&logoColor=000&link=https://www.elastic.co/pt/kibana/)](www.elastic.co/pt/kibana)   
+  [![SonarQube Badge](https://img.shields.io/badge/SonarQube-blue?style=&logo=sonarqube&logoColor=FFF&link=https://www.sonarqube.org/)](https://sonarqube.org/)
+  [![kibana Badge](https://img.shields.io/badge/Kibana-FFF?style=&logo=kibana&logoColor=000&link=https://www.elastic.co/pt/kibana/)](http://www.elastic.co/pt/kibana)   
