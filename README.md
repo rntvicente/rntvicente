@@ -29,10 +29,9 @@
 </p>
   &nbsp;&nbsp;
 
-- **Linguagens**<br>
-  [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=&logo=javascript&logoColor=black&link=https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-  [![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=&logo=typescript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
-  [![C Badge](https://img.shields.io/badge/C%20Sharp-purple?style=&logo=c-sharp&logoColor=FFF&link=https://docs.microsoft.com/pt-br/dotnet/csharp/)](https://docs.microsoft.com/pt-br/dotnet/csharp/)  
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rntvicente&theme=tokyonight" width="50%"></a> 
+</p>
 
 - **Front End**<br>
   [![React Badge](https://img.shields.io/badge/React-20232A?style=&logo=react&logoColor=61DAFB&link=https://reactjs.org/)](https://reactjs.org/)
