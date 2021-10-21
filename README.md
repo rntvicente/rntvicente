@@ -19,7 +19,7 @@ I'm a technology lover passionate about development :heart_eyes:, I work on my p
   </p>
 
 - 🔭 I'm currently working at [Minu](https://minu.co)
-- 🌱 I'm currently learning NestJS & Go NestJS & Go
+- 🌱 I'm currently learning NestJS & Go
 
 <br>
 <br>
