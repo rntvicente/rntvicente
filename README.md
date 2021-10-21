@@ -15,12 +15,12 @@
   
 <h2>Sobre mim &#128513;</h2>
   <p>
-      Sou amante de tecnologia 😍 apaixonado por desenvolvimento, domino e trabalho em meus projetos com ReactJS um framework que gosto muito. Eu também trabalho com NextJS e tento ter um mínimo de XP com outros frameworks. Tenho conhecimento de backend com c# e nodejs (woohh fullstack JS 😎). Gosto de aprender novas tecnologias e me atualizar.
+      Sou amante de tecnologia 😍 apaixonado por desenvolvimento, trabalho em meus projetos com ReactJS um framework que gosto muito. Eu também com NextJS e tento ter um mínimo de XP com outros frameworks. Tenho bastante conhecimento de backend com C# e NodeJS (woohh fullstack JS 😎). Gosto de aprender novas tecnologias e me atualizar.
 
   </p>
 
 - 🔭 Atualmente estou trabalhando na [Minu](https://minu.co)
-- 🌱 Atualmente estou aprendendo NestJS && Serveless
+- 🌱 Atualmente estou aprendendo NestJS & Go
 
 <br>
 <br>
