@@ -18,7 +18,7 @@
 I'm a technology lover passionate about development :heart_eyes:, I work on my projects with ReactJS a framework that I really like. I currently use the NextJS framework and try to have a minimum of XP with other frameworks. I have a lot of backend knowledge with C# and NodeJS (woohh fullstack JS). I like to learn new technologies and update myself.
   </p>
 
-- 🔭 I'm currently working at [Legiti](https://www.legiti.com)
+- 🔭 I'm currently working at [Triider](https://www.triider.com.br)
 - 🌱 I'm currently learning NestJS & Go
 
 <br>
