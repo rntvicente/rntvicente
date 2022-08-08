@@ -44,6 +44,7 @@ I'm a technology lover passionate about development :heart_eyes:, I work on my p
   [![NestJS](https://img.shields.io/badge/Nest--JS-000?style=&logo=nestjs&logoColor=e93333&link=https://nestjs.com/)](https://nestjs.com/)
   
 - **Others Tools**<br>
+  [![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=&logo=typescript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
   [![Jest Badge](https://img.shields.io/badge/Jest-green?style=&logo=jest&logoColor=FFF&link=https://jestjs.io/)](https://jestjs.io)
   [![Mocha Badge](https://img.shields.io/badge/Mocha-c29d7f?style=&logo=mocha&logoColor=FFF&link=https://mochajs.org/)](https://mochajs.org)
   [![Docker Badge](https://img.shields.io/badge/Docker-blue?style=&logo=docker&logoColor=FFF&link=https://hub.docker.com/)](https://hub.docker.com/)
