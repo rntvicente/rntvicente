@@ -19,7 +19,7 @@ I'm a technology lover passionate about development :heart_eyes:, I work on my p
   </p>
 
 - 🔭 I'm currently working at [Triider](https://www.triider.com.br)
-- 🌱 I'm currently learning NestJS & Go
+- 🌱 I'm currently learning Docker & Go
 
 <br>
 <br>
@@ -41,7 +41,8 @@ I'm a technology lover passionate about development :heart_eyes:, I work on my p
   [![MySQL Badge](https://img.shields.io/badge/MongoDB-13aa52?style=&logo=mongodb&logoColor=green&link=https://www.mongodb.com/pt-br)](https://www.mongodb.com/pt-br)
   [![Express Badge](https://img.shields.io/badge/Express.js-000000?style=&logo=express&logoColor=white&link=https://expressjs.com/)](https://expressjs.com/)
   [![GraphQL Badge](https://img.shields.io/badge/GraphQL-e10098?style=&logo=graphql&logoColor=202020&link=https://graphql.org/)](https://graphql.org/)
-
+  [![NestJS](https://img.shields.io/badge/Nest--JS-000?style=&logo=nestjs&logoColor=e93333&link=https://nestjs.com/)](https://nestjs.com/)
+  
 - **Others Tools**<br>
   [![Jest Badge](https://img.shields.io/badge/Jest-green?style=&logo=jest&logoColor=FFF&link=https://jestjs.io/)](https://jestjs.io)
   [![Mocha Badge](https://img.shields.io/badge/Mocha-c29d7f?style=&logo=mocha&logoColor=FFF&link=https://mochajs.org/)](https://mochajs.org)
