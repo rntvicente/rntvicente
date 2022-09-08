@@ -4,18 +4,22 @@
 
 <p align='center'>
   <a href="https://twitter.com/rntvicente">
-  <img src="https://img.shields.io/twitter/follow/rntvicente?color=blue&label=follow&logo=twitter&logoColor=white&style=for-the-badge" />
+    <img alt="twitter" src="https://img.shields.io/twitter/follow/rntvicente?color=blue&label=follow&logo=twitter&logoColor=white&style=for-the-badge" />
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/vicenterenato">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/renatovicente_dev">
+    <img alt="instagram" src="https://img.shields.io/badge/Instagram-2a4876?style=for-the-badge&logo=instagram&logoColor=#2a4876" />
   </a>
 </p>
 <br>
   
 <h2>About me &#128513;</h2>
   <p>
-I'm a technology lover passionate about development :heart_eyes:, I work on my projects with ReactJS a framework that I really like. I currently use the NextJS framework and try to have a minimum of XP with other frameworks. I have a lot of backend knowledge with C# and NodeJS (woohh fullstack JS). I like to learn new technologies and update myself.
+    I'm a technology lover passionate about development :heart_eyes:, I work on my projects with ReactJS a framework that I really like. I currently use the NextJS framework and try to have a minimum of XP with other frameworks. I have a lot of backend knowledge with C# and NodeJS (woohh fullstack JS). I like to learn new technologies and update myself.
   </p>
 
 - 🔭 I'm currently working at [Triider](https://www.triider.com.br)
