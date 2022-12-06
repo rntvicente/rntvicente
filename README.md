@@ -23,7 +23,7 @@
   </p>
 
 - 🔭 I'm currently working at [Triider](https://www.triider.com.br)
-- 🌱 I'm currently learning Docker & Go
+- 🌱 I'm currently learning React Native & Go
 
 <br>
 <br>
