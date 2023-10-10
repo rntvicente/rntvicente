@@ -17,7 +17,7 @@
 </p>
 <br>
   
-<h2>About me &#128513;</h2>
+<h2>Sobre mim &#128513;</h2>
   <p>
     Naturalmente comunicativo, tenho o talento de assumir a responsabilidade como se fosse meu próprio projeto e sou conhecido por minha empatia genuína. Quando o assunto é habilidades técnicas, tenho sólidos conhecimentos em desenvolvimento de aplicativos distribuídos e backend, especialmente em C# e NodeJS, e também tenho experiência como desenvolvedor fullstack JS. Essa combinação de habilidades técnicas e características interpessoais me torna um membro valioso para qualquer equipe.
   </p>
