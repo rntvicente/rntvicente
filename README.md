@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hey 👋 I`m Renato!
+  Fala 👋 Renato aqui!
 </h1>
 
 <p align='center'>
@@ -19,10 +19,10 @@
   
 <h2>About me &#128513;</h2>
   <p>
-    I'm a technology lover passionate about development :heart_eyes:, I work on my projects with ReactJS a framework that I really like. I currently use the NextJS framework and try to have a minimum of XP with other frameworks. I have a lot of backend knowledge with C# and NodeJS (woohh fullstack JS). I like to learn new technologies and update myself.
+    Naturalmente comunicativo, tenho o talento de assumir a responsabilidade como se fosse meu próprio projeto e sou conhecido por minha empatia genuína. Quando o assunto é habilidades técnicas, tenho sólidos conhecimentos em desenvolvimento de aplicativos distribuídos e backend, especialmente em C# e NodeJS, e também tenho experiência como desenvolvedor fullstack JS. Essa combinação de habilidades técnicas e características interpessoais me torna um membro valioso para qualquer equipe.
   </p>
 
-- 🌱 I'm currently learning Python & Go
+- 🌱 Atualmente estou aprendendo Python
 
 <br>
 <br>
